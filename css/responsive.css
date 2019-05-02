@@ -1,0 +1,1742 @@
+/*For -------- xs device same code -------- */
+@media(min-width: 275px) and (max-width: 767px){
+
+
+}/*End of 767px*/
+
+/*For -------- xs -------- device*/
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$ start 275 small devices $$$$$$$$$$$$$$$$$$$$$$$*/
+
+@media(min-width: 275px) and (max-width: 321px){
+
+.b-title {
+    font-size: 25px;
+    margin-top: 60px;
+}
+.b-contain {
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 20px;
+}
+.banner-btn button {
+    width: 190px;
+    height: 50px;
+    font-size: 12px;
+    margin-top: 30px;
+}
+.banner {
+    height: 320px;
+}
+.get-border {
+    border-right: 1px solid #D6D6D6;
+    height: 0;
+    margin-top: 0;
+}
+.get-title h3 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+.get-title p {
+    font-size: 12px;
+    padding-top: 2px;
+    line-height: 20px;
+}
+.free-access p {
+    font-size: 7px;
+    line-height: 18px;
+}
+.get-bottom p {
+    font-size: 11px;
+    line-height: 20px;
+    margin-top: 10px;
+}
+.get-news h3 {
+    font-size: 20px;
+   padding-top: 30px;
+}
+.get-news p {
+    font-size: 12px;
+    padding-top: 0px;
+}
+.u-input input {
+    width: 100%;
+    height: 40px;
+    font-size: 12px;
+    padding: 5px;
+    margin-bottom: 9px;
+}
+.free-btn button {
+
+    width: 130px;
+    height: 36px;
+    font-size: 12px;
+}
+.check-faq{
+    font-size: 11px;
+    line-height: 20px;
+    margin-top: 10px;
+}
+.services {
+    margin-top: 16px;
+}
+.services-title {
+    margin-top: 40px;
+}
+.services-1 p {
+    margin-top: 33px;
+    font-size: 30px;
+}
+.services-1 h1 {
+    font-size: 12px;
+}
+.services-1 h3 {
+    font-size: 9px;
+    line-height: 22px;
+}
+.services-btn {
+    margin-top: 18px;
+}
+.services-btn button {
+    width: 110px;
+    height: 35px;
+    font-size: 11px;
+}
+.journal-title {
+    margin-top: 33px;
+    font-size: 20px;
+}
+.busness h6 {
+    margin-top: 24px;
+    font-size: 10px;
+}
+.busness h3 {
+    margin-top: 10px;
+    font-size: 13px;
+}
+.busness p {
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 20px;
+}
+.journal-btn button {
+    width: 144px;
+    height: 40px;
+    font-size: 11px;
+    margin-top: 0;
+}
+.journal-blog img {
+    margin-top: 30px;
+    width: 320px;
+}
+.busness{
+    margin-top: 20px;
+}
+.busness-2{
+    margin-top: 10px;
+}
+.journal-border {
+    margin-top: 0;
+}
+.next-btn {
+    margin-top: 30px;
+}
+
+.about-us {
+    margin-top: 45px;
+}
+.a-us, .address, .follow-us h3 {
+    text-align: center;
+    margin-top: 50px;
+}
+.a-us p {
+    font-size: 10px;
+    margin-top: 15px;
+    line-height: 26px;
+    word-spacing: 3px;
+}
+.a-us span a {
+    font-size: 13px;
+}
+.a-us, .address, .follow-us h3 {
+    margin-top: 15px;
+    font-size: 22px;
+    padding-top: 30px;
+    font-weight: 500;
+}
+.social ul li {
+    width: 40px;
+    height: 40px;
+    line-height: 35px;
+    margin-left: 0;
+}
+.social-color {
+    padding-bottom: 50px;
+}
+.address h3{
+    font-size: 22px;
+}
+.address p {
+    margin-top: 20px;
+    font-size: 10px;
+    line-height: 25px;
+}
+.address span a {
+    font-size: 13px;
+}
+.copy-right p {
+    font-size: 7px;
+}
+.copy-right p {
+    line-height: 35px;
+}
+
+/*========== journal admin responsive ===========*/
+
+.admin h1 {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.admin p {
+    font-size: 12px;
+    line-height: 27px;
+    text-align: justify;
+}
+.admin-border {
+    margin-top: 20px;
+}
+
+/*========== CSS For Continue-reading ===============*/
+.news-pic {
+    margin-top: 20px;
+}
+.newstitle-btn {
+    margin-top: 35px;
+}
+.newstitle-btn button {
+    width: 260px;
+    font-size: 14px;
+}
+.hiddennews{
+    display: none;
+}
+.email-news p {
+    font-size: 11px;
+    line-height: 26px;
+    word-spacing: 4px;
+}
+.email-news input {
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+}
+.signup-btn button {
+    width: 190px;
+    height: 44px;
+    font-size: 13px;
+}
+.wordpress-market h6 {
+    font-size: 10px;
+}
+.wordpress-market h3 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+}
+.wordpress-market p {
+    font-size: 12px;
+    margin-top: 14px;
+    line-height: 24px;
+}
+.head-line h4 {
+    font-size: 16px;
+    margin-top: 26px;
+}
+.head-line p {
+    font-size: 12px;
+    margin-top: 20px;
+    line-height: 24px;
+}
+.head-line h5 {
+    margin-top: 40px;
+}
+.head-line h1 {
+    margin-top: 34px;
+}
+.mark-twain {
+    margin-top: 44px;
+}
+.mark-twain h2 {
+    font-size: 22px;
+}
+.mark-twain p {
+    font-size: 11px;
+    margin-top: 13px;
+}
+.mark-twain h6 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.mark-twain h1 {
+    margin-top: 44px;
+}
+.about-mark h1 {
+    font-size: 16px;
+}
+.about-mark p {
+    font-size: 11px;
+    margin-top: 12px;
+    line-height: 20px;
+}
+.about-mark img {
+    float: right;
+    width: 90px;
+    height: 90px;
+    margin-top: -64px;
+    margin-right: -38px;
+}
+.about-mark input {
+    width: 100%;
+    height: 44px;
+    padding: 6px;
+    font-size: 12px;
+    margin-top: 13px;
+}
+.about-mark h2{
+    margin-top: 0;
+}
+.about-btn button {
+    width: 160px;
+    height: 38px;
+    font-size: 12px;
+    padding-top: 3px;
+    margin-top: -10px;
+}
+.comment h1 {
+    font-size: 18px;
+    margin-top: 50px;
+    text-align: center;
+}
+.media-object {
+    margin-top: 30px;
+}
+.media-heading {
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 32px;
+}
+.media-body p {
+    font-size: 14px;
+    line-height: 28px;
+    margin-top: 14px;
+}
+.media-heading {
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 32px;
+}
+.submit-comment h1 {
+    font-size: 22px;
+    margin-top: 54px;
+    text-align: center;
+}
+.submit-comment p {
+    font-size: 14px;
+    margin-top: 22px;
+}
+.submit-comment input {
+    width: 100%;
+    height: 52px;
+}
+.submit-comment h3 input {
+    width: 100%;
+    height: 100px;
+}
+.subcomment-btn button {
+    width: 180px;
+    height: 46px;
+    font-size: 12px;
+}
+.recentpost-btn button {
+    width: 260px;
+    height: 48px;
+    font-size: 16px;
+    padding-top: 0px;
+}
+.recentpost-btn {
+    margin-top: 40px;
+}
+.recent-post p {
+    font-size: 9px;
+}
+.recent-post h6{
+     font-size: 11px;
+}
+.txt-btn button{
+    width: 260px;
+    height: 48px;
+    font-size: 16px;
+    padding-top: 0px;
+}
+.txt-btn {
+    margin-top: 46px;
+}
+.text-wd p {
+    font-size: 12px;
+    line-height: 24px;
+}
+
+/*======= CSS Responsiv for Contact ======*/
+
+.c-containt h3 {
+    font-size: 30px;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 26px;
+}
+.n-name input {
+    width: 100%;
+    height: 46px;
+}
+.n-message textarea {
+    width: 100%;
+    height: 150px;
+}
+.contact-btn button {
+    width: 190px;
+    height: 48px;
+    font-size: 15px;
+}
+.about-us {
+    padding-bottom: 15px;
+}
+
+}/*End of 320px*/
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$ start 321 small devices $$$$$$$$$$$$$$$$$$$$$$$*/
+
+@media(min-width: 321px) and (max-width: 480px){
+
+.b-title {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 68px;
+}
+.banner {
+    height: 320px;
+}
+.b-contain {
+    font-size: 18px;
+    line-height: 34px;
+    margin-top: 20px;
+}
+.banner-btn button {
+    width: 170px;
+    height: 60px;
+    font-size: 12px;
+    margin-top: 22px;
+}
+.get-title h3 {
+    font-size: 20px;
+    padding-top: 40px;
+}
+.get-title p {
+    font-size: 13px;
+    padding-top: 10px;
+}
+.free-access p {
+    font-size: 8px;
+    line-height: 20px;
+}
+.get-bottom p {
+    font-size: 12px;
+    line-height: 25px;
+    margin-top: 37px;
+}
+.get-border {
+    border-right: none;
+    height: 0;
+    margin-top: 0;
+}
+.get-news h3 {
+    font-size: 20px;
+    padding-top: 14px;
+}
+.get-news p {
+    font-size: 14px;
+    padding-top: 4px;
+}
+.u-input input {
+    width: 100%;
+    height: 55px;
+    font-size: 14px;
+    padding: 5px;
+}
+.free-btn button {
+    width: 250px;
+    height: 50px;
+    font-size: 14px;
+}
+.check-faq {
+    font-size: 12px;
+}
+.services {
+    margin-top: 44px;
+}
+.services-1 p {
+    font-size: 40px;
+    margin-top: 40px;
+}
+.services-1 h1 {
+    font-size: 15px;
+}
+.services-1 h3 {
+    font-size: 12px;
+    line-height: 27px;
+}
+.services-btn button {
+    width: 130px;
+    height: 40px;
+    font-size: 12px;
+}
+.journal-title {
+    margin-top: 80px;
+    font-size: 20px;
+}
+.busness h6 {
+    margin-top: 54px;
+    font-size: 10px;
+}
+.busness h3 {
+    font-size: 14px;
+}
+.busness p {
+    margin-top: 18px;
+    font-size: 13px;
+}
+.journal-btn button {
+    width: 145px;
+    height: 40px;
+    font-size: 11px;
+    margin-top: 20px;
+}
+.journal-blog img {
+    margin-top: 33px;
+}
+.journal-border {
+    margin-top: 52px;
+}
+.a-us, .address, .follow-us h3 {
+    font-size: 22;
+    margin-top: 60px;
+    text-align: center;
+}
+.a-us p {
+    font-size: 12px;
+    margin-top: 31px;
+    text-align: justify;
+}
+.a-us span a {
+    font-size: 14px;
+}
+.a-us, .address, .follow-us h3 {
+    font-size: 20;
+    margin-top: 36px;
+    padding-top: 39px;
+}
+.social ul li {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 7px;
+}
+.social-color {
+    padding-bottom: 80px;
+}
+.address p {
+    margin-top: 30px;
+    font-size: 12px;
+    text-align: justify;
+}
+.address span a {
+    font-size: 15px;
+    float: left;
+}
+.copy-right p {
+    font-size: 8px;
+    line-height: 40px;
+}
+
+/*============== CSS For author ================*/
+
+.news-pic {
+    margin-top: 30px;
+}
+.hiddennews{
+    display: none;
+}
+
+.newstitle-btn button {
+    width: 265px;
+    height: 50px;
+    font-size: 15px;
+}
+.newstitle-btn {
+    margin-top: 50px;
+}
+.email-news p {
+    font-size: 11px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+.email-news input {
+    width: 100%;
+    height: 50px;
+    font-size: 13px;
+    padding: 10px;
+}
+.signup-btn button {
+    width: 180px;
+    height: 50px;
+    font-size: 15px;
+}
+.wordpress-market h6 {
+    font-size: 10px;
+}
+.wordpress-market h3 {
+    font-size: 17px;
+    font-weight: 698;
+}
+.wordpress-market p {
+    font-size: 13px;
+    margin-top: 24px;
+    line-height: 26px;
+}
+.head-line h4 {
+    font-size: 18px;
+    margin-top: 29px;
+    font-weight: 600;
+}
+.head-line p {
+    font-size: 13px;
+    margin-top: 22px;
+    line-height: 26px;
+}
+.head-line h5 {
+    font-size: 10px;
+    margin-top: 34px;
+}
+.mark-twain img {
+    width: 80px;
+    height: 80px;
+}
+.mark-twain {
+    margin-top: 60px;
+}
+.mark-twain h2 {
+    font-size: 28px;
+}
+.mark-twain p {
+    font-size: 15px;
+}
+.mark-twain h6 {
+    font-size: 12px;
+}
+.mark-twain h1 {
+    margin-top: 66px;
+}
+.about-mark h1 {
+    font-size: 17px;
+}
+.about-mark {
+    margin-top: 50px;
+}
+.about-mark p {
+    font-size: 13px;
+    margin-top: 24px;
+}
+.about-mark img {
+    width: 100px;
+    height: 100px;
+    margin-top: -84px;
+    margin-right: -39px;
+}
+.about-mark input {
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    margin-top: 13px;
+}
+.about-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.comment h1 {
+    font-size: 22px;
+    margin-top: 66px;
+    text-align: center;
+}
+.media-heading {
+    font-size: 15px;
+}
+.media-body p {
+    font-size: 14px;
+}
+.submit-comment h1 {
+    font-size: 24px;
+    margin-top: 52px;
+    text-align: center;
+}
+.submit-comment p {
+    font-size: 15px;
+}
+.submit-comment input {
+    width: 100%;
+    height: 50px;
+}
+.submit-comment p {
+    margin-top: 10px;
+}
+.submit-comment h3 input {
+    width: 100%;
+    height: 200px;
+}
+.subcomment-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.recentpost-btn button {
+    width: 260px;
+    height: 50px;
+    font-size: 16px;
+}
+.recentpost-btn {
+    margin-top: 30px;
+}
+.recent-post p {
+    font-size: 11px;
+}
+.txt-btn button{
+     width: 260px;
+    height: 50px;
+    font-size: 18px;
+}
+.txt-btn {
+    margin-top: 53px;
+}
+.text-wd p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 22px;
+}
+.admin h1 {
+    margin-top: 50px;
+}
+.admin p {
+    font-size: 15px;
+    margin-top: 20px;
+    line-height: 28px;
+    text-align: justify;
+}
+.admin-border {
+    margin-top: 55px;
+}
+.c-containt h3 {
+    margin-top: 50px;
+    text-align: center;
+}
+.c-containt p {
+    font-size: 15px;
+    padding-top: 37px;
+}
+.n-name input {
+    width: 100%;
+    height: 50px;
+}
+.n-message textarea {
+    width: 100%;
+    height: 200px;
+}
+.contact-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+}
+.about-us {
+    padding-bottom: 20px;
+}
+
+
+}/*End of 480px*/
+
+/*======= close 321 ==========*/
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$ start 481 small devices $$$$$$$$$$$$$$$$$$$$$$$*/
+
+@media(min-width: 481px) and (max-width: 640px){
+
+.banner {
+    height: 460px;
+}
+
+.b-title {
+    font-size: 38px;
+    font-weight: bold;
+    margin-top: 155px;
+}
+.b-contain {
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 34px;
+    margin-top: 22px;
+}
+.banner-btn button {
+    width: 200px;
+    height: 67px;
+    font-size: 13px;
+    margin-top: 36px;
+}
+.get-title h3 {
+    font-size: 22px;
+    padding-top: 46px;
+}
+.get-title p {
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: 700;
+}
+.free-access p {
+    font-size: 13px;
+    line-height: 36px;
+}
+.get-bottom p {
+    font-size: 15px;
+    margin-top: 30px;
+}
+.get-border {
+    height: 0;
+    margin-top: 0;
+}
+.get-news h3 {
+    font-size: 22px;
+    padding-top: 20px;
+}
+.u-input input {
+    width: 100%;
+    height: 56px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.free-btn button {
+    width: 230px;
+    height: 56px;
+    font-size: 14px;
+}
+.services-1 p {
+    font-size: 56px;
+    margin-top: 30px;
+}
+.services-1 h1 {
+    font-size: 18px;
+}
+.services-1 h3 {
+    font-size: 12px;
+    line-height: 26px;
+}
+.services-btn button {
+    width: 120px;
+    height: 35px;
+    font-size: 12px;
+    margin-top: 0px;
+}
+.busness h6 {
+    margin-top: 60px;
+}
+.busness h3 {
+    font-size: 18px;
+}
+.journal-btn button {
+    width: 156px;
+    height: 50px;
+    font-size: 12px;
+    margin-top: 22px;
+}
+.journal-blog img {
+    margin-top: 50px;
+}
+.journal-border {
+    margin-top: 70px;
+}
+.next-btn {
+    margin-top: 100px;
+}
+.a-us, .address, .follow-us h3 {
+    text-align: center;
+     margin-top: 50px;
+}
+.a-us p {
+    font-size: 14px;
+    margin-top: 36px;
+    line-height: 31px;
+    text-align: justify;
+}
+.a-us span a {
+    font-size: 14px;
+}
+.social {
+    margin-top: 50px;
+}
+.follow-us h3 {
+    padding-top: 45px;
+}
+.social-color {
+    padding-bottom: 80px;
+}
+.address p {
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: left;
+}
+.address span a {
+    font-size: 14px;
+    float: left;
+    padding-bottom: 20px;
+}
+.copy-right p {
+    font-size: 12px;
+    line-height: 32px;
+}
+
+/*========== author============*/
+
+.news-pic {
+    margin-top: 40px;
+}
+.hiddennews{
+    display: none;
+}
+.newstitle-btn {
+    margin-top: 56px;
+}
+.email-news p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 35px;
+    word-spacing: 0px;
+}
+.email-news input {
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+}
+.signup-btn button {
+    width: 170px;
+    height: 40px;
+    font-size: 12px;
+}
+.wordpress-market h6 {
+    margin-top: 56px;
+}
+.wordpress-market h3 {
+    font-size: 15px;
+}
+.wordpress-market p {
+    font-size: 15px;
+    line-height: 28px;
+}
+.head-line h4 {
+    font-size: 18px;
+    margin-top: 40px;
+}
+.head-line p {
+    font-size: 15px;
+}
+.head-line h5 {
+    font-size: 12px;
+}
+.mark-twain {
+    margin-top: 65px;
+}
+.mark-twain h2 {
+    font-size: 28px;
+}
+.mark-twain p {
+    font-size: 16px;
+}
+.mark-twain h6 {
+    font-size: 17px;
+}
+.about-mark {
+    margin-top: 70px;
+}
+.about-mark h1 {
+    font-size: 22px;
+}
+.about-mark p {
+    font-size: 15px;
+}
+.about-mark img {
+    width: 160px;
+    height: 160px;
+    margin-top: -39px;
+}
+.about-mark input {
+    width: 100%;
+    height: 52px;
+    padding: 10px;
+    font-size: 16px;
+}
+.about-btn button {
+    width: 230px;
+    height: 50px;
+    font-size: 14px;
+}
+.comment h1 {
+    font-size: 30px;
+    text-align: center;
+}
+.media-heading {
+    font-size: 14px;
+}
+.media-body p {
+    font-size: 15px;
+}
+.reaply {
+    font-size: 14px;
+}
+.submit-comment h1 {
+    font-size: 30px;
+    margin-top: 38px;
+}
+.submit-comment p {
+    font-size: 14px;
+    margin-top: 35px;
+}
+.submit-comment input {
+    width: 100%;
+    height: 55px;
+}
+.submit-comment p {
+    margin-top: 0px;
+}
+.submit-comment h3 input {
+    width: 100%;
+    height: 200px;
+}
+.subcomment-btn button {
+    width: 230px;
+    height: 50px;
+    font-size: 14px;
+}
+.recentpost-btn {
+    margin-top: 35px;
+    padding-bottom: 20px;
+}
+.recent-post {
+    text-align: center;
+    word-spacing: 10px;
+}
+.text-wd p {
+    font-size: 15px;
+    line-height: 22px;
+    margin-top: 66px;
+}
+.admin p {
+    margin-top: 56px;
+    text-align: justify;
+}
+.admin-border {
+    margin-top: 100px;
+}
+.c-containt h3 {
+    margin-top: 50px;
+}
+.c-containt p {
+    padding-top: 36px;
+}
+.n-name input {
+    width: 100%;
+    height: 50px;
+}
+.n-message textarea {
+    width: 100%;
+    height: 200px;
+}
+.n-name, .n-message label {
+    line-height: 26px;
+}
+.contact-btn button {
+    width: 225px;
+    height: 50px;
+    font-size: 14px;
+}
+
+
+}/*End of 640px*/
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$ start 641 small devices $$$$$$$$$$$$$$$$$$$$$$$*/
+
+@media(min-width: 641px) and (max-width: 767px){
+
+.banner {
+    height: 645px;  
+}
+.b-title {
+    font-size: 52px;
+    margin-top: 125px;
+}
+.b-contain {
+    font-size: 22px;
+    line-height: 36px;
+    margin-top: 60px;
+}
+.banner-btn button {
+    width: 240px;
+    height: 60px;
+    font-size: 14px;
+    margin-top: 70px;
+}
+.get-title h3 {
+    font-size: 22px;
+    padding-top: 36px;
+}
+.get-title p {
+    font-size: 18px;
+    padding-top: 22px;
+    text-align: justify;
+}
+.free-access p {
+    font-size: 14px;
+    line-height: 26px;
+}
+.get-bottom p {
+    font-size: 18px;
+}
+.get-border {
+    height: 0;
+    margin-top: 0;
+}
+.get-news h3 {
+    font-size: 22px;
+    padding-top: 24px;
+}
+.get-news p {
+    font-size: 15px;
+    padding-top: 15px;
+}
+.u-input input {
+    width: 100%;
+    height: 55px;
+    font-size: 14px;
+}
+.free-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 13px;
+}
+.check-faq {
+    font-size: 18px;
+    margin-top: 60px;
+}
+.services-1 p {
+    font-size: 57px;
+    margin-top: 80px;
+}
+.services-1 h3 {
+    font-size: 15px;
+}
+.services-1 h1 {
+    font-size: 20px;
+}
+/*====author=====*/
+
+.news-pic {
+    margin-top: 40px;
+}
+.hiddennews{
+    display: none;
+}
+.newstitle-btn button {
+    width: 584px;
+    height: 50px;
+}
+.newstitle-btn {
+    margin-top: 45px;
+}
+.email-news input {
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+}
+.signup-btn button {
+    width: 212px;
+    height: 50px;
+    font-size: 14px;
+}
+.wordpress-market h6 {
+    margin-top: 88px;
+}
+.wordpress-market h3 {
+    font-size: 21px;
+}
+.about-mark input {
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+}
+.about-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.submit-comment input {
+    width: 100%;
+    height: 55px;
+}
+.submit-comment p {
+    margin-top: 22px;
+}
+.submit-comment h1 {
+    margin-top: 60px;
+}
+.submit-comment h3 input {
+    width: 100%;
+    height: 200px;
+}
+.subcomment-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.recent-post {
+    margin-top: 40px;
+}
+.recent-post p {
+    font-size: 15px;
+    word-spacing: 8px;
+}
+.recent-post h6 a{
+    font-size: 15px;
+    word-spacing: 8px;
+}
+.text-wd p {
+    margin-top: 76px;
+}
+.a-us, .address, .follow-us h3 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 60px;
+}
+.admin p {
+    font-size: 20px;
+    margin-top: 50px;
+    word-spacing: 3px;
+    line-height: 32px;
+}
+.admin-border {
+    margin-top: 56px;
+}
+.busness h6 {
+    margin-top: 60px;
+}
+.journal-blog img {
+    margin-top: 36px;
+}
+.journal-border {
+    margin-top: 65px;
+}
+.about-mark img {
+    width: 160px;
+    height: 160px;
+    margin-top: -23px;
+}
+
+/*====== Contact CSS =====*/
+
+.n-name input {
+    width: 100%;
+    height: 55px;
+}
+.n-message textarea {
+    width: 100%;
+    height: 200px;
+}
+.n-name, .n-message label {
+    line-height: 40px;
+}
+.contact-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.about-us {
+    padding-bottom: 25px;
+}
+
+}/*End of 767px*/
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$ start 768 small devices $$$$$$$$$$$$$$$$$$$$$$$*/
+/*For -------- sm device --------*/
+
+@media(min-width: 768px) and (max-width: 991px){
+
+.get-title h3 {
+    padding-top: 50px;
+}
+.get-title p {
+    font-size: 18px;
+}
+.get-bottom p {
+    font-size: 18px;
+    word-spacing: 10px;
+}
+.get-border {
+    height: 0;
+    margin-top: 0;
+}
+.get-news h3 {
+    font-size: 22px;
+    padding-top: 35px;
+}
+.get-news p {
+    font-size: 17px;
+    padding-top: 20px;
+}
+.u-input input {
+    width: 100%;
+    height: 60px;
+    font-size: 15px;
+}
+.free-btn button {
+    width: 250px;
+    height: 60px;
+}
+.services-1 p {
+    font-size: 60px;
+}
+.services-1 h1 {
+    font-size: 18px;
+}
+.services-1 h3 {
+    font-size: 9px;
+}
+.journal-blog img {
+    margin-top: 55px;
+}
+.journal-btn button {
+    width: 150px;
+    height: 40px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.journal-border {
+    margin-top: 80px;
+}
+.a-us, 
+.address, 
+.follow-us h3 {
+    text-align: center;
+    padding-top: 60px;
+}
+.follow-us h3{
+    font-size: 28px;
+}
+.a-us h3{
+    font-size: 28px;
+    margin-top: -62px;
+}
+.address h3{
+    font-size: 28px;
+    margin-top: -100px;
+}
+.a-us p {
+    font-size: 16px;
+    margin-top: 34px;
+}
+.about-us {
+    padding-bottom: 50px;
+}
+
+/*===== CSS for author ========*/
+
+.news-pic {
+    margin-top: 60px;
+}
+.hiddennews{
+    display: none;
+}
+.newstitle-btn button {
+    width: 600px;
+}
+.newstitle-btn {
+    margin-top: 70px;
+}
+.email-news p {
+    font-size: 24px;
+    margin-top: 60px;
+    word-spacing: 8px;
+}
+.email-news input {
+    margin-top: 30px;
+    width: 100%;
+}
+.signup-btn {
+    text-align: left;
+}
+.signup-btn button {
+    width: 190px;
+    height: 50px;
+    font-size: 14px;
+}
+.wordpress-market h6 {
+    font-size: 14px;
+    margin-top: 75px;
+}
+.wordpress-market p {
+    font-size: 15px;
+}
+.head-line p {
+    font-size: 15px;
+}
+.recentpost-btn button {
+    width: 600px;
+    font-size: 20px;
+}
+.recentpost-btn {
+    margin-top: 50px;
+}
+.recent-post {
+    margin-top: 42px;
+    width: 48%;
+}
+.recent-post p {
+    font-size: 13px;
+}
+.txt-btn button{
+    width: 600px;
+    font-size: 20px;
+}
+.text-wd p {
+    font-size: 17px;
+    line-height: 18px;
+    margin-top: 45px;
+}
+   
+}/*End of 991px*/
+
+/*$$$$$$$$$$$$$$$$$$$$$$$$$$$$ start 768 small devices $$$$$$$$$$$$$$$$$$$$$$$*/
+/*For -------- md device -------- */
+@media(min-width: 992px) and (max-width: 1024px){
+
+  .b-title {
+    font-size: 55px;
+    margin-top: 200px;
+} 
+.get-title h3 {
+    font-size: 22px;
+    padding-top: 60px;
+} 
+.get-title p {
+    font-size: 15px;
+    padding-top: 20px;
+}
+.free-access p {
+    font-size: 12px;
+}
+.get-news h3 {
+    font-size: 22px;
+    padding-top: 60px;
+}
+.u-input input {
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+}
+.free-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.get-bottom p {
+    font-size: 16px;
+    margin-top: 40px;
+}
+.check-faq {
+    font-size: 16px;
+    margin-top: 86px;
+}
+.services-1 p {
+    font-size: 60px;
+}
+.services-1 h1 {
+    font-size: 19px;
+}
+.services-1 h3 {
+    font-size: 12px;
+}
+.social ul li {
+    margin-left: 3px;
+}
+/*======= CSS for Author ======= */
+
+.news-pic {
+    margin-top: 60px;
+}
+.newstitle-btn button {
+    width: 300px;
+    height: 50px;
+}
+.newstitle-btn {
+    margin-top: 60px;
+}
+.email-news p {
+    font-size: 12px;
+}
+.email-news input {
+    margin-top: 10px;
+    width: 100%;
+    font-size: 14px;
+}
+.signup-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.wordpress-market h6 {
+    margin-top: 72px;
+}
+.wordpress-market h3 {
+    font-size: 20px;
+}
+.recentpost-btn button {
+    width: 300px;
+}
+.recent-post p {
+    font-size: 11px;
+}
+.recent-post {
+    margin-top: 30px;
+}
+.txt-btn button{
+    width: 300px;
+}
+.txt-btn {
+    margin-top: 128px;
+}
+.text-wd p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.about-mark img {
+    width: 150px;
+    height: 150px;
+    margin-top: -50px;
+    margin-right: -40px;
+}
+.about-mark input {
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+}
+.about-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.comment h1 {
+    font-size: 32px;
+    margin-top: 70px;
+}
+.media-body p {
+    font-size: 15px;
+    text-align: justify;
+}
+.submit-comment h1 {
+    font-size: 34px;
+    margin-top: 70px;
+}
+.submit-comment input {
+    width: 100%;
+    height: 61px;
+    margin-top: 20px;
+}
+.submit-comment h3 input {
+    width: 100%;
+    height: 200px;
+}
+.subcomment-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.n-name input {
+    width: 100%;
+    height: 60px;
+}
+.n-message textarea{
+    width: 100%;
+    height: 200px;
+}
+.contact-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+    
+}/*End of 1024px*/
+
+@media(min-width: 1025px) and (max-width: 1199px){
+
+  .free-access p {
+    font-size: 13px;
+}
+.u-input input {
+    width: 100%;
+    height: 55px;
+    font-size: 14px;
+}
+.check-faq {
+    margin-top: 90px;
+    text-align: justify;
+}
+.get-bottom p {
+    font-size: 14px;
+    line-height: 22px;
+    word-spacing: 12px;
+    text-align: justify;
+}
+.services-1 h3 {
+    font-size: 15px;
+}
+.social ul li {
+    margin-left: 3px;
+}
+.copy-right p {
+    line-height: 58px;
+}
+
+/*====CSS for author =====*/
+
+.news-pic {
+    margin-top: 60px;
+}
+.newstitle-btn button {
+    width: 310px;
+    height: 50px;
+}
+.newstitle-btn {
+    margin-top: 60px;
+}
+.email-news p {
+    font-size: 12px;
+}
+.email-news input {
+    width: 100%;
+    height: 55px;
+}
+.signup-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.wordpress-market h6 {
+    margin-top: 70px;
+}
+.wordpress-market h3 {
+    font-size: 19px;
+}
+.recentpost-btn button {
+    width: 300px;
+    height: 50px;
+}
+.wordpress-market p {
+    font-size: 15px;
+}
+.head-line p {
+    font-size: 15px;
+}
+.recent-post {
+    margin-top: 30px;
+}
+.recent-post p {
+    font-size: 11px;
+}
+.txt-btn button {
+    width: 300px;
+    height: 50px;
+}
+.txt-btn {
+    margin-top: 154px;
+}
+.text-wd p {
+    font-size: 15px;
+    margin-top: 60px;
+}
+.about-mark img {
+    width: 150px;
+    height: 150px;
+    margin-top: 8px;
+    margin-right: -30px;
+}
+.about-mark input {
+    width: 100%;
+    height: 60px;
+    font-size: 16px;
+}
+.about-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.comment h1 {
+    font-size: 34px;
+    margin-top: 80px;
+}
+.media-body p {
+    text-align: justify;
+}
+.submit-comment h1 {
+    font-size: 34px;
+    margin-top: 70px;
+}
+.submit-comment input {
+    width: 100%;
+    height: 60px;
+}
+.submit-comment h3 input{
+    width: 100%;
+    height: 200px;
+}
+.subcomment-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+.submit-comment p {
+    margin-top: 30px;
+}
+.n-name input {
+    width: 100%;
+    height: 60px;
+}
+.n-message textarea{
+    width: 100%;
+    height: 200px;
+}
+.contact-btn button {
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+}
+
+}/*End of 1199px*/
+
+/*For -------- lg device -------- */
+@media(min-width: 1200px) and (max-width: 1920px){
+
+    
+    
+}/*End of 1024px*/
